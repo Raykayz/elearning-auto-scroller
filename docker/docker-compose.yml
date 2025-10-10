@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  moodle-auto:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: elearning-autocomplete
+    environment:
+      # Configura qui le tue credenziali
+      - MOODLE_URL=https://elearning.youruniversity.it
+      - MOODLE_USERNAME=your_username
+      - MOODLE_PASSWORD=your_password
+      - COURSE_ID=395
+      - START_FROM_LESSON=0
+      - LESSON_KEYWORD=lezione
+      - DISPLAY=:99
+    volumes:
+      # Monta la config locale (opzionale)
+      - ../config.json:/app/config.json:ro
+    stdin_open: true
+    tty: true
+    shm_size: 2gb
