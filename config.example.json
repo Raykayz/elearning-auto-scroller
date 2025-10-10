@@ -1,0 +1,19 @@
+{
+  "_comment": "eLearning Auto Scroller - Configuration File",
+  
+  "platform_type": "moodle",
+  
+  "_comment_moodle_settings": "Settings for standard Moodle platforms",
+  "moodle_url": "https://elearning.youruniversity.it",
+  "course_id": "395",
+  "username": "your_username",
+  "password": "your_password",
+  
+  "_comment_lesson_settings": "Lesson detection settings",
+  "lesson_keyword": "lezione",
+  "start_from_lesson": 0,
+  
+  "_comment_timing": "Timing settings (in seconds)",
+  "slide_delay": 0.25,
+  "lesson_delay": 2
+}
